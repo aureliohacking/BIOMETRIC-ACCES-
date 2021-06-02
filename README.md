@@ -1,0 +1,5 @@
+# BIOMETRIC-ACCES-
+
+La seguridad informática se trata sobre la protección de información de índole personal o empresarial, contenida no solo en la red, sino también en los dispositivos de uso diario como lo son los teléfonos celulares, tabletas, computadoras o cualquier dispositivo digital de amenazas que puedan poner en riesgo cualquier información que sea clasificada y almacenada en alguno de los dispositivos antes mencionados. 
+Este proyecto se llevó a cabo por la necesidad de salvaguardar nuestros documentos de textos, mismos documentos que en muchas ocasiones son robados y modificados para así exponerlos y ejecutar crímenes informáticos.  
+La encriptación de documentos de textos mediante el acceso biométrico permite escudar nuestra información a través del registro de huellas digitales, pudiendo así contrarrestar la perdida de datos clasificados. Este consiste en subir algún documento de texto y codificarlo, de manera que solo puedan visualizarlo las personas que registraron sus huellas en el programa.
